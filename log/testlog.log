@@ -1,0 +1,11 @@
+2026-02-10 11:24:42,388 – Login Testcase -INFO – Chrome Browser Launched
+2026-02-10 11:24:42,766 – Login Testcase -INFO – Browser Window Maximised
+2026-02-10 11:37:50,696 – Login Testcase -INFO – Chrome Browser Launched
+2026-02-10 11:37:51,054 – Login Testcase -INFO – Browser Window Maximised
+2026-02-10 11:39:09,411 – Login Testcase -INFO – Navigate to the techlearn website
+2026-02-10 11:41:56,961 – Login Testcase -INFO – Chrome Browser Launched
+2026-02-10 11:41:57,336 – Login Testcase -INFO – Browser Window Maximised
+2026-02-10 11:42:00,962 – Login Testcase -INFO – Navigate to the techlearn login page
+2026-02-10 11:42:01,158 – Login Testcase -INFO – Login User ID is Vinitha
+2026-02-10 11:42:01,384 – Login Testcase -INFO – Password is Hello@12345
+2026-02-10 11:42:01,620 – Login Testcase -INFO – Remember Checkbox to be selected
