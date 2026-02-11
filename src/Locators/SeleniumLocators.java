@@ -17,9 +17,9 @@ class SeleniumLocators {
 
     @Test
 	void idnameclass() throws Exception {
-    	driver.get("https://www.techlearn.in");
+    	driver.get("https://www.techlearn.in/");
 		Thread.sleep(2000);
-		driver.findElement(By.id("user_login")).sendKeys("vinitha");
+		driver.findElement(By.id("user_login")).sendKeys("vinithaurakana");
 		Thread.sleep(2000);
 		driver.findElement(By.name("pwd")).sendKeys("Hello@12345");
 		Thread.sleep(2000);
