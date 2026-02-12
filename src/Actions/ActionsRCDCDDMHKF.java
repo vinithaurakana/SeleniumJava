@@ -19,8 +19,8 @@ public class ActionsRCDCDDMHKF {
 	
 	@Test
 	public void rightClick() throws InterruptedException {
-		driver.get("https://www.techlearn.in");
-		Thread.sleep(3000);
+		driver.get("https://www.techlearn.in/");
+		Thread.sleep(7000);
 		
 		Actions act = new Actions(driver);
 		act.contextClick(driver.findElement(By.xpath("//a[normalize-space()='Downloads']"))).build().perform();
